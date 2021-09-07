@@ -4,21 +4,21 @@ Desarrollo del 1er proyecto para sistemas embebidos
 Esta carpeta contiene todos los códigos implementados en el proyecto 1
 cómo se listan a continuación:
 
-- La primera parte del proyecto utilizó los siguientes códigos:
+1. La primera parte del proyecto utilizó los siguientes códigos:
 
-  - test_C.cpp
-  - test_python.py (libreria RPi.GPIO)
-  - test_python2.py (libreria wiringPi)
-  - test_bash.sh
+  * test_C.cpp
+  * test_python.py (libreria RPi.GPIO)
+  * test_python2.py (libreria wiringPi)
+  * test_bash.sh
 
   Nota: Debe ejecutar el archivo test_C que es la compilación resultante 
-		del código en C "test_C.cpp".
+	del código en C "test_C.cpp".
 
 	Los códigos en python se ejecutaron con python3
 
-- La segunda parte del proyecto utilizó los siguientes códigos:
+2. La segunda parte del proyecto utilizó los siguientes códigos:
 
-  - sensorRead.sh
+  * sensorRead.sh
 
   Nota: Al ejecutar este código generará un archivo en la carpeta donde se 
 	este ejecutando. Si el sensor utilizado (DS18B20), no tiene un 
